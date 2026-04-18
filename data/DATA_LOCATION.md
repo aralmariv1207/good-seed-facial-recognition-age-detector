@@ -7,7 +7,6 @@ Due to GitHub's file size constraints (240MB+), the 7.6k facial images for this 
 
 ### ☁️ Personal Project Backup
 - **Google Drive:** [Cloud Storage Mirror](https://drive.google.com/drive/u/0/folders/1KoWAchab6JDVwLBtFo1ZSERKbsmUF-mP)
-
 ### 📂 Repository Structure
 - `labels.csv`: Mapping of image filenames to real age (stored in `/data`).
 - `final_files/`: Directory containing 7,591 cropped and aligned face images.
